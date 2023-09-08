@@ -1,0 +1,29 @@
+*{
+  box-sizing:border-box;
+  margin:0px;
+  padding:0px;
+}
+
+div{
+  border:1px solid black;
+}
+
+.container{
+  width:800px;
+  margin:auto;
+  display:flex;
+}
+
+.container div{
+  flex:1; /* 비율 */
+  text-align:center;
+}
+.ulBox ul{
+  list-style: none;
+}
+
+
+.tableBox table{
+  width:100%;
+  border:1px solid black;
+}

@@ -1,0 +1,18 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+div{
+  border:1px solid black;
+}
+.container{
+  width:800px;
+  margin:auto;
+}
+
+.container div{
+  text-align:center;
+
+}
